@@ -1,4 +1,4 @@
-All credit for this repo goes to RiteshKH (author 726094, link below). This repo has been cleaned of the unnecessary images that can be found on the original repo. This repo is empty and ready for use with the HTR notebook created by the All Caps Capstone team and UT Knoxville.
+All credit for this repo goes to RiteshKH (author 726094, link below). Unnecessary images in the original repo have been removed, so this repo is empty and ready for use with the HTR notebook created by the All Caps Capstone team at UT Knoxville for the project taken in partnership with CapitalOne.
 
 ## [Cursive_handwriting_recognition](https://github.com/RiteshKH/Cursive_handwriting_recognition)
 
